@@ -20,3 +20,9 @@ Methods
 ・check the code passes tests before refactoring. also, check tests during refactoring
 ・change small part first
 
+## Before the project 2019/03/06
+Users do not know what they wish. Therefore, we dig for them
+
+'Requirements' and 'Policy' in the project should be separated as requirements are constant while policy will often be changed.
+
+Work with a user to think like a user
